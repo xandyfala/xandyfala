@@ -1,5 +1,5 @@
 # 👋 Olá, seja muito bem-vindo(a) ao meu GitHub!<br><br>
-É um privilégio ter você por aqui! Sou apaixonado por tecnologia, buscando aprender cada dia mais e mais.💻✨<br><br>Atualmente, estou revisando fundamentos e aprimorando meus conhecimentos em HTML, CSS, Git entre outros. Com o objetivo de me tornar um Desenvolvedor Full Stack 🌐💪⚡<br><br>Aqui você vai encontrar meus projetos, anotações e experiências durante está jornada de revisões e aprendizagem. Cada repositório, será um pequeno avanço. E um grande passo rumo ao futuro que estou construindo! 💪📘<br><br>Se quiser trocar ideias ou dicas, será muito bem-vindo(a)! 🤝😄
+É um privilégio ter você por aqui!<br>Sou apaixonado por tecnologia, buscando aprender cada dia mais e mais.💻✨<br><br>Atualmente, estou revisando fundamentos e aprimorando meus conhecimentos em HTML, CSS, Git entre outros. Com o objetivo de me tornar um Desenvolvedor Full Stack 🌐💪⚡<br><br>Aqui você vai encontrar meus projetos, anotações e experiências durante está jornada de revisões e aprendizagem. Cada repositório, será um pequeno avanço. E um grande passo rumo ao futuro que estou construindo! 💪📘<br><br>Se quiser trocar ideias ou dicas, será muito bem-vindo(a)! 🤝😄
 
 
 ## 🌐 Socials:
