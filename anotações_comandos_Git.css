@@ -1,0 +1,36 @@
+/*  Git é um sistema de controle de versão distribuído e de código aberto que permite o rastreamento de alterações em projetos, 
+sendo amplamente utilizado no desenvolvimento de software. Ele armazena o histórico completo de um projeto, 
+facilitando o trabalho colaborativo e a volta a versões anteriores. 
+
+GitHub é uma plataforma online que serve como uma rede social e serviço de hospedagem para desenvolvedores, 
+baseada no sistema de controle de versão Git. Ele permite que programadores armazenem código em "repositórios", 
+colaborem em projetos de forma colaborativa, 
+rastreiem e gerenciem alterações no código ao longo do tempo e compartilhem seus trabalhos com o mundo. 
+
+Alguns Gits de  comando no terminal do VS Code:
+
+git config --global user.email -> Serve para encontara e adicionar a sua conta do GitHub no terminal do VS Code.
+
+git config --global user.name -> Aqui, localiza o seu nome de usuário GitHub com o terminal do VS Code.
+
+git config --list -> Serve para listar sua conta e seu nome de usuário Github no terminal do Vs Code.
+
+clean - > Limpa o terminal.
+
+git pull -> puxa as atualizações do GITHUB para o VS Code.
+
+git push -> Manda o que foi feito para o GITHUB
+
+git status -> Mostra os arquivos que foram modificados.
+ 
+git add <nome do arquivo ex:index.html> -> Adicio o arquivo modificado, para a área de stage.
+ Obs:A área de stage (ou staging area) no Git é uma área intermediária onde você seleciona 
+ as alterações de arquivos que deseja incluir no próximo commit.
+ 
+ git commit -m"Escreva um comentário entre aspas" -> git commit -m"comentário" é para preparar,
+ o arquivo com comentário antes de subir/mandar para o GITHUB.
+
+ git push -> Envia o arquivo modificado para o GITHUB.
+
+ git add . -> Manda mais de um arquivo modificado para o stage. 
+*/
