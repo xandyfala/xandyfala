@@ -33,4 +33,12 @@ git add <nome do arquivo ex:index.html> -> Adicio o arquivo modificado, para a �
  git push -> Envia o arquivo modificado para o GITHUB.
 
  git add . -> Manda mais de um arquivo modificado para o stage. 
+
+ git init -> Inicia, criando um repositorio Git. Preparando os arquivos em um repositório.
+ 
+ git remote add origin -> Prepara o caminho, para mandar os arquivo para o repositório de destino. Pro exemplo: 
+   git remote add origin https://github.com/xandyfala/xandyfala.git
+
+ git push --set-upstream origin master -> Esse comando só será obrigatório, para toda vez que você iniciar uma comunicação com um NOVO repositório.
+ Depois só bastará colocar o git push normalmente, para enviar os arquivos para o GITHUB.  
 */
